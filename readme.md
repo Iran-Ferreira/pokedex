@@ -1,0 +1,1 @@
+Uma pokedex simples usando JavaScript, HTML e CSS
